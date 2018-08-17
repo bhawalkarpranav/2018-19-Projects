@@ -1,2 +1,5 @@
 # 2018-19-Projects
-BE IT Projects for AY 2018-19
+MMCOE BE IT Projects for AY 2018-19
+
+Total Number of Groups 20
+
