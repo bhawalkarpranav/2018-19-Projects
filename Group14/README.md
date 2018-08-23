@@ -1,8 +1,11 @@
 Group 14
 
-Title:
+Title: community based Question and answer system(CQA)
 
-Members:
+Members:1.Tushar Nemade
+        2.Gayatri Bhalerao
+        3.Saloni Telang
+        4.Payal shah
 
-Project Guide:
+Project Guide:Nikhil Dhavse sir
 
