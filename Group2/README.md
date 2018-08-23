@@ -1,7 +1,7 @@
 Group 2
 
-Title:
+Title: Emotion Based Music Recommendation System.
 
-Members:
+Members: Prasad Agashe, Rajas Bhide, Veerbhadra Bilagi, Yashashree Dange.
 
-Project Guide:
+Project Guide: Dr.Vijaykumar Bidave.
