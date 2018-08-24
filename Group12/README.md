@@ -1,8 +1,12 @@
 Group 12
 
-Title:
+Title: plant disease identification
 
 Members:
+Rohit Suryawanshi
+Nitin Sonawane
+Vishwajeet Gawali
+Yeshodeepika Sonawane
 
-Project Guide:
+Project Guide: Prof. Pranjali Kuche
 
