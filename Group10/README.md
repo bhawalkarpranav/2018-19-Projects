@@ -1,9 +1,9 @@
 
 Group 10
 
-Title:
+Title:Text Summarization of a Marathi Document
 
-Members:
+Members:Priyanka Tak,Tejashri Bhingare,Sujata Lungare,Aman Jain
 
-Project Guide:
+Project Guide:Mr.Pratik Kamble
 
